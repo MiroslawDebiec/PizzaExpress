@@ -1,0 +1,11 @@
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\bin\Debug\PizzaExpress.Domain.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\bin\Debug\PizzaExpress.Domain.pdb
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\bin\Debug\PizzaExpress.DTO.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\bin\Debug\PizzaExpress.Persistance.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\bin\Debug\PizzaExpress.DTO.pdb
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\bin\Debug\PizzaExpress.Persistance.pdb
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\obj\Debug\PizzaExpress.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\obj\Debug\PizzaExpress.Domain.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Domain\obj\Debug\PizzaExpress.Domain.pdb

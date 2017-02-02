@@ -1,0 +1,12 @@
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\bin\Debug\PizzaExpress.Persistance.dll.config
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\bin\Debug\PizzaExpress.Persistance.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\bin\Debug\PizzaExpress.Persistance.pdb
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\bin\Debug\PizzaExpress.DTO.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\bin\Debug\PizzaExpress.DTO.pdb
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\obj\Debug\PizzaExpress.Persistance.csprojResolveAssemblyReference.cache
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\obj\Debug\PizzaExpress.Persistance.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.Persistance\obj\Debug\PizzaExpress.Persistance.pdb

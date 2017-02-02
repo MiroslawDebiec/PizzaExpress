@@ -1,0 +1,5 @@
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.DTO\bin\Debug\PizzaExpress.DTO.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.DTO\bin\Debug\PizzaExpress.DTO.pdb
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.DTO\obj\Debug\PizzaExpress.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.DTO\obj\Debug\PizzaExpress.DTO.dll
+C:\Users\Miro\Desktop\PizzaExpress\PizzaExpress.DTO\obj\Debug\PizzaExpress.DTO.pdb

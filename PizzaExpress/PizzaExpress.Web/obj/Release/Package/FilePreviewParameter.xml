@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PizzaExpress" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Miro\\Desktop\\PizzaExpress\\PizzaExpress\.Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Miro\\Desktop\\PizzaExpress\\PizzaExpress\.Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="PizzaExpress/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Miro\\Desktop\\PizzaExpress\\PizzaExpress\.Web\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="PizzaExpressDbEntities-Web.config Connection String" description="" value="metadata=res://*/PizzaExpressEntities.csdl|res://*/PizzaExpressEntities.ssdl|res://*/PizzaExpressEntities.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=tcp:pizzaexpressdbserver.database.windows.net,1433;initial catalog=PizzaExpress_db;user id=Miroslaw@pizzaexpressdbserver;password=Pa1u3lus;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Miro\\Desktop\\PizzaExpress\\PizzaExpress\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PizzaExpressDbEntities']/@connectionString" />
+  </parameter>
+</parameters>
